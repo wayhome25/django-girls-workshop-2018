@@ -2,3 +2,5 @@
 .python-version
 db.sqlite3
 __pycache__
+/static
+.DB_store
